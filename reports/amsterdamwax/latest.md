@@ -12,7 +12,7 @@
 | Guild Jurisdiction | Netherlands |
 
 ### <ins>Noteworthy</ins>
-All listed services being hosted and maintained as usual, updated usage statistics.
+All listed services being hosted and maintained as usual, updated usage statistics. 
 
 ### <ins>API Services</ins>
 
